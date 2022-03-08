@@ -64,4 +64,7 @@ fun main() {
         println("Keliling $items : $keliling")
         println("============================================")
     }
+
+    val persegiPanjang = PersegiPanjang(2.0, 5.2)
+    persegiPanjang.hitungLuas()
 }
