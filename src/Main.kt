@@ -3,8 +3,8 @@ fun main() {
     persegiPanjang.hitungLuas()
     persegiPanjang.hitungKeliling()
 
-    val persegi = Persegi(1.0, 9,9)
-    persegi.hitungluas()
+    val persegi = Persegi(2.0)
+    persegi.hitungLuas()
     persegi.hitungKeliling()
     
 }
